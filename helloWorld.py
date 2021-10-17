@@ -1,9 +1,7 @@
-import sys
-
 print("Hello in python")
-gf =123
-def grt():
+inpultValue = 1
+if inpultValue > 12:
     print("greater")
-if gf > 12:
-    grt()
+else:
+    print("Smaller")
 
